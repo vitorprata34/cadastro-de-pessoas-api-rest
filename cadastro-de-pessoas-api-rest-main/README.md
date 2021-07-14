@@ -3,7 +3,7 @@
 
 Projeto desenvolvido durante o bootcamp GFT Starter#2 - Java fruto da parceria da [Digital Innovation One](https://digitalinnovation.one/) com a empresa de tecnologia [GFT](https://www.gft.com/br/pt/index/).
 
-Professor: [Rodrigo Peleias](https://github.com/rpeleias)
+Criei um novo repositorio, por que o anterior estava ja bastante confuso com muitos commits, sendo assim criei o repositorio ja com o projeto final concretizado.
 
 ## Objetivo:
 Criar uma API REST de cadastro de usuários que faça as operações básicas de get, post, put e delete e também o deploy da aplicação no Heroku.
